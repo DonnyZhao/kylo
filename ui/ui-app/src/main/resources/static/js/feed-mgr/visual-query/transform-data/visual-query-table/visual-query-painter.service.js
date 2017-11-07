@@ -8,7 +8,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-define(["require", "exports", "angular", "../../services/column-delegate", "fattable"], function (require, exports, angular, column_delegate_1) {
+define(["require", "exports", "angular", "../../wrangler/column-delegate", "fattable"], function (require, exports, angular, column_delegate_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     /**
